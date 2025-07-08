@@ -411,7 +411,7 @@
   "learning.outline.alert.scheduled-content.body": "Este curso tendrá más contenido publicado en una fecha futura. Permanece atento a las actualizaciones por correo electrónico o vuelve a consultar este curso para ver las novedades.",
   "learning.outline.alert.scheduled-content.button": "Ver programa del curso",
   "progress.ungradedAlert": "Para el progreso en los aspectos no calificados del curso, consulta tu {outlineLink}.",
-  "progress.footnotes.droppableAssignments": "La calificación más baja {numDroppable, plural, one{# {assignmentType} se elimina} other{# {assignmentType} se eliminan}}.",
+  "progress.footnotes.droppableAssignments": "La calificación más baja {numDroppable, plural, other{# {assignmentType} se eliminan}}.",
   "calculator.instructions.button.label": "Instrucciones de la calculadora",
   "calculator.instructions": "Para obtener información detallada, consulta el {expressions_link}.",
   "calculator.instructions.support.title": "Centro de ayuda",

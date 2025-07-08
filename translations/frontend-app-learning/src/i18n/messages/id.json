@@ -411,7 +411,7 @@
   "learning.outline.alert.scheduled-content.body": "Kursus ini akan memiliki lebih banyak konten yang dirilis di masa mendatang. Nantikan pembaruan email atau periksa kembali kursus ini untuk pembaruan.",
   "learning.outline.alert.scheduled-content.button": "Lihat Jadwal Kursus",
   "progress.ungradedAlert": "Untuk kemajuan pada aspek kursus yang tidak dinilai, lihat {outlineLink} Anda.",
-  "progress.footnotes.droppableAssignments": "{numDroppable, plural, one{# skor {assignmentType} dengan nilai terendah dibuang} other{# skor {assignmentType} dengan nilai terendah dibuang}}.",
+  "progress.footnotes.droppableAssignments": "{numDroppable, plural, other{# skor {assignmentType} dengan nilai terendah dibuang}}.",
   "calculator.instructions.button.label": "Instruksi Kalkulator",
   "calculator.instructions": "Untuk informasi rinci, lihat {expressions_link}.",
   "calculator.instructions.support.title": "Pusat Bantuan",

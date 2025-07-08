@@ -411,7 +411,7 @@
   "learning.outline.alert.scheduled-content.body": "Khóa học này sẽ có nhiều nội dung được phát hành vào một ngày trong tương lai. Hãy chú ý cập nhật qua email hoặc kiểm tra lại khóa học này để biết thông tin cập nhật.",
   "learning.outline.alert.scheduled-content.button": "Xem lịch trình khóa học",
   "progress.ungradedAlert": "Để biết tiến trình về các khía cạnh chưa được xếp loại của khóa học, hãy xem {outlineLink} của bạn.",
-  "progress.footnotes.droppableAssignments": "{numDroppable, plural, one{# điểm {assignmentType} có điểm thấp nhất sẽ bị loại} other{# điểm {assignmentType} có điểm thấp nhất sẽ bị loại}}.",
+  "progress.footnotes.droppableAssignments": "{numDroppable, plural, other{# điểm {assignmentType} có điểm thấp nhất sẽ bị loại}}.",
   "calculator.instructions.button.label": "Hướng dẫn sử dụng máy tính",
   "calculator.instructions": "Để biết thông tin chi tiết, hãy xem {expressions_link} .",
   "calculator.instructions.support.title": "Trung tâm trợ giúp",

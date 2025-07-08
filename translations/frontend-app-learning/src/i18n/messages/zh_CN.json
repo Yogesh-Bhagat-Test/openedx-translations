@@ -411,7 +411,7 @@
   "learning.outline.alert.scheduled-content.body": "本课程将在以后发布更多内容。查看电子邮件更新或稍后查看此课程以获取更新。",
   "learning.outline.alert.scheduled-content.button": "查看课程安排",
   "progress.ungradedAlert": "有关课程未评分方面的进展，请查看您的 {outlineLink}。",
-  "progress.footnotes.droppableAssignments": "{numDroppable, plural, one{# 个最低的 {assignmentType} 分数已被删除} other{# 个最低的 {assignmentType} 分数已被删除}}。",
+  "progress.footnotes.droppableAssignments": "{numDroppable, plural, other{# 个最低的 {assignmentType} 分数已被删除}}。",
   "calculator.instructions.button.label": "计算器说明",
   "calculator.instructions": "有关详细信息，请参阅 {expressions_link}。",
   "calculator.instructions.support.title": "帮助中心",

@@ -411,7 +411,7 @@
   "learning.outline.alert.scheduled-content.body": "སློབ་ཚན་འདིའི་ནང་མ་འོངས་པར་ནང་དོན་གང་མང་མང་མུ་མཐུད་ནས་སྤེལ་རྒྱུ་ཡིན་པ་འདྲ། ཁྱེད་ཀྱིས་རང་གི་གློག་འཕྲིན་གསར་བརྡ་ཁག་ལ་དོ་སྣང་དང་། ཡང་ན། ཁྱེད་ཀྱི་སློབ་ཚན་ནང་གི་ནང་དོན་གཞན་དག་སྤེལ་དུས་ལ་བསྐྱར་དུ་ཞིབ་བཤེར་ཞིག་བྱེད་རོགས།",
   "learning.outline.alert.scheduled-content.button": "སློབ་ཚན་གྱི་དུས་ཚོད་རེའུ་མིག་སྟོན།",
   "progress.ungradedAlert": "གནས་རིམ་གྱི་ཐོབ་སྐར་ནང་མི་ཚུད་པའི་སློབ་ཚན་དེའི་ཆ་ཤས་རྣམས་ཀྱི་སྦྱངས་འབྲས་ལ་ཤེས་འདོད་ན། འདི་ནས་རང་གི་དཀར་ཆག་ལ་གཟིགས། {outlineLink}",
-  "progress.footnotes.droppableAssignments": "{numDroppable, plural, one{# ལག་ལེན་དགོས་པ་{assignmentType} སྐར་གྲངས་དམའ་ཤོས་ཞིག་མི་བརྩི།} other{# ལག་ལེན་དགོས་པ་{assignmentType} སྐར་གྲངས་དམའ་ཤོས་ཁ་ཤས་མི་བརྩི།}}",
+  "progress.footnotes.droppableAssignments": "{numDroppable, plural, other{# ལག་ལེན་དགོས་པ་{assignmentType} སྐར་གྲངས་དམའ་ཤོས་ཁ་ཤས་མི་བརྩི།}}",
   "calculator.instructions.button.label": "རྩིས་རྒྱག་སྟངས་ཀྱི་ལམ་སྟོན།",
   "calculator.instructions": "གནས་ཚུལ་ཞིབ་ཕྲར་གཟིགས་ཕྱིར་འདིར་ཕེབས། {expressions_link}.",
   "calculator.instructions.support.title": "རམ་འདེགས་ལྟེ་གནས།",

@@ -1,0 +1,12 @@
+{
+  "siteheader.links.courses": "Cours",
+  "siteheader.links.programs": "Programmes et diplômes",
+  "siteheader.links.schools": "Écoles et partenaires",
+  "siteheader.user.menu.dashboard": "Tableau de bord",
+  "siteheader.user.menu.profile": "Profil",
+  "siteheader.user.menu.account.settings": "Compte",
+  "siteheader.user.menu.logout": "Se déconnecter",
+  "siteheader.user.menu.login": "Se connecter",
+  "siteheader.user.menu.register": "S&#39;inscrire",
+  "app.loading.message": "Chargement"
+}
